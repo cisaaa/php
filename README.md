@@ -1,2 +1,1 @@
-# php_db
-basic php_db conn
+# PHP DB(mysqli) Connection
